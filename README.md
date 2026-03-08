@@ -20,7 +20,11 @@ You must use a local web server to access the NetPractice pages.
 - Use the **[Check again]** button to verify your solution.
 - Once a level is completed, you **must** click the **[Get my config]** button to export your configuration file.
 
-
+### 3. Submission Requirements
+- You are required to submit **10 configuration files** (one per level: `level1.json` to `level10.json`).
+- These 10 files must be placed at the **root** of your Git repository.
+- A `README.md` (this file) must also be present at the root.
+  
 ### Common log messages (what they usually mean)
 
 - **`invalid IP address`**  
