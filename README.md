@@ -39,7 +39,7 @@ You must use a local web server to access the NetPractice pages.
   Packet is bouncing due to wrong/ambiguous routing; check default routes and overlaps.
 
 
-## How I approached each level (reusable checklist)
+## How I approached each level 
 
 ### Step A — Split the diagram into subnets
 - Every **switch LAN** (devices on the same switch/broadcast domain) should be **one subnet**.
